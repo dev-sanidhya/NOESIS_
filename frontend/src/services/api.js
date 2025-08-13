@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://noesis-7g5i.onrender.com';
+const API_BASE_URL = 'https://noesis-backend-eshd.onrender.com';
 
 class ApiService {
   async fetchIncidents(params = {}) {
